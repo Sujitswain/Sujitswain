@@ -5,9 +5,9 @@
    
  - **🔭 I’m currently working on ...** visual studio
  
- -**👨‍ 💻 Code:**  HTML, CSS, C-programming, C++ , and Java. 🕸
+ -**👨‍ 💻 Code:**  HTML, CSS, JS, React JS, C-programming, C++ ,Java, MongoDB, MySQL. 🕸
  
-- **🌱 I’m currently learning...** Web-development, javascript, |Python|, DS
+- **🌱 I’m currently learning...** Web-development, |Python|, DSA, Spring Boot.
 
 -**⚡ Fun fact: ...** 
 Apart from coding and learning progamming also interested in DSA, Playing Games.

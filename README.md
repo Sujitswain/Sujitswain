@@ -19,27 +19,27 @@ Apart from coding and learning programming, also interested in problem solving a
 
 ### Connect with me:
 
-   [<img align="left" alt="Gmail " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>](mailto:junakuna@pec.edu)
-   [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sujit-swain-tech)
-   [<img align="left" alt="Gmail " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>](mailto:sujitswain2023@gmail.com) 
-   <br />
+[![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sujit-swain-tech)  
+[![Gmail](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg)](mailto:sujitswain2023@gmail.com)
 
+<br>
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Java" width="26px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
+<img align="left" alt="Spring Boot" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png" />
+<img align="left" alt="Kafka" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/apache-kafka/apache-kafka.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
+<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
+<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
 
-<br>
+<br><br>
 
-<br>
+### GitHub Stats:
 
-![Sujit Swain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujitswain&&show_icons=true&hide_border=true&hide=contribs,prs)
+![Sujit Swain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujitswain&show_icons=true&hide_border=true&theme=default)
 
 <br>

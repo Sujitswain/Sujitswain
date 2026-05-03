@@ -39,7 +39,7 @@ Apart from coding, I enjoy problem solving and exploring system design concepts.
 <br>
 
 ## 📊 GitHub Stats:
-
-![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujitswain&show_icons=true&hide_border=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujitswain&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sujitswain&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujitswain&layout=compact" width="48%" />
+</p>

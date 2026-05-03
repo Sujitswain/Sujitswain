@@ -42,12 +42,6 @@ Apart from coding, I enjoy problem solving and exploring system design concepts.
 
 <p align="center">
   <a href="https://github.com/Sujitswain">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sujitswain&show_icons=true&hide_border=true&theme=dark" alt="Sujit GitHub stats" />
-  </a>
-  <a href="https://github.com/Sujitswain">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujitswain&layout=compact&hide_border=true&theme=dark" alt="Sujit Top Languages" />
-  </a>
-  <a href="https://github.com/Sujitswain">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Sujitswain&theme=dark&hide_border=true" alt="Sujit GitHub streak stats" />
   </a>
 </p>

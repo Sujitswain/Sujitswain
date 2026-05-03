@@ -1,23 +1,24 @@
 ### Hello Everyone! I'm Sujit Swain 👋
-## AboutMe:
-   I am a pre final year :student: student at Pondicherry Technological University, Pondicherry (India). I recently graduated my Bachelors in Information Technology.
-   <br> **"To implement my skill in the real world scenario and innovate  better way to optimize  problems."**
-   
- - **🔭 I’m currently working on ...** visual studio
- 
- -**👨‍ 💻 Code:**  HTML, CSS, JS, React JS, C-programming, C++ ,Java, MongoDB, MySQL. 🕸
- 
-- **🌱 I’m currently learning...** Web-development, |Python|, DSA, Spring Boot.
 
--**⚡ Fun fact: ...** 
-Apart from coding and learning progamming also interested in DSA, Playing Games.
+## AboutMe:
+I am a Backend Developer with 2+ years of experience working on Java and Spring Boot applications. Currently working on microservices-based systems and building scalable REST APIs.  
+<br> **"Focused on building efficient backend systems and continuously improving through real-world problem solving."**
+
+- 🔭 I’m currently working on ... Microservices-based backend systems & Order Processing System (Kafka)
+
+- 👨‍💻 Code: Java, Spring Boot, Spring Security, Microservices, REST APIs, Kafka, MySQL, React JS, HTML, CSS, JavaScript 🕸
+
+- 🌱 I’m currently learning... Apache Kafka, AWS, System Design, Distributed Systems
+
+- ⚡ Fun fact:  
+Apart from coding and learning programming, also interested in problem solving and exploring system design concepts.
+
 <br>
 
- 📫 How to reach me:
-### Connect with me: 
+📫 How to reach me:
 
+### Connect with me:
 
-      
    [<img align="left" alt="Gmail " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>](mailto:junakuna@pec.edu)
    [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sujit-swain-tech)
    [<img align="left" alt="Gmail " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>](mailto:sujitswain2023@gmail.com) 

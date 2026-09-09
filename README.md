@@ -1,7 +1,7 @@
 ### Hello Everyone! I'm Sujit Swain 👋
 
 ## AboutMe:
-I am a Backend Developer with 2+ years of experience working on Java and Spring Boot applications. Currently working on microservices-based systems and building scalable REST APIs.  
+I am a Backend Developer with 3 years of experience working on Java and Spring Boot applications. Currently working on microservices-based systems and building scalable REST APIs.  
 <br> **"Focused on building efficient backend systems and continuously improving through real-world problem solving."**
 
 - 🔭 I’m currently working on: Microservices-based backend systems & Order Processing System (Kafka)
